@@ -7,7 +7,7 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/luigi-di-benedetto-máximo-torres/">
+  <a href="https://www.linkedin.com/in/luigi-di-benedettomt/?locale=en-US">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:luigibenedettomt@gmail.com">
